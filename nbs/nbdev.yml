@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "tabularml"
+  site-url: "https://JaumeAmoresDS.github.io/tabularml"
+  description: "ML on tabular data"
+  repo-branch: main
+  repo-url: "https://github.com/JaumeAmoresDS/tabularml"

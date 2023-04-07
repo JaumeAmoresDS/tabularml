@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://JaumeAmoresDS.github.io',
                 'git_url': 'https://github.com/JaumeAmoresDS/tabularml',
                 'lib_path': 'tabularml'},
-  'syms': {'tabularml.core': {'tabularml.core.foo': ('core.html#foo', 'tabularml/core.py')}}}
+  'syms': {}}
